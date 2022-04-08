@@ -1,0 +1,6 @@
+.env
+
+user/migrations/__pycache__
+user/__pycache__
+
+monnity/__pycache__
